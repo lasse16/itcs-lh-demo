@@ -1,5 +1,3 @@
-This is a poorly formatted markdown file.
+# Please dont trigger
 
-- Hopefully it triggers all the checks.
-
-# Please trigger
+Better formatted?
